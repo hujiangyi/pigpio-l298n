@@ -1,6 +1,6 @@
 {
   "name": "pigpio-l298n",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module to control an l298n motor controller on a Pi,dependencies pigpio.",
   "main": "l298n.js",
   "scripts": {
@@ -32,7 +32,7 @@
     "url": "https://github.com/hujiangyi/pigpio-l298n/issues"
   },
   "homepage": "https://github.com/hujiangyi/pigpio-l298n/blob/master/README.md",
-  "_id": "pigpio-l298n@0.0.1",
+  "_id": "pigpio-l298n@0.0.2",
   "_npmUser": {
     "name": "hujiangyi003",
     "email": "laolang@189.cn"
