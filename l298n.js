@@ -12,7 +12,7 @@ function initDevice(dNum,en,in1,in2) {
         en:en,
         in1:in1,
         in2:in2,
-        enGpio : new PinPWM(en,clock,range),
+        enGpio : new PinPWM(en),
         in1Gpio : new PinWrite(in1),
         in2Gpio : new PinWrite(in2),
     };
