@@ -27,12 +27,12 @@
       "email": "laolang@189.cn"
     }
   ],
-  "gitHead": "2d4f57fd64755831cc20280e27445cb45e5b60dd",
+  "gitHead": "394b5428b0f779d66ee80cafaa08556c50019040",
   "bugs": {
-    "url": "https://github.com/hujiangyi/pigpio-/issues"
+    "url": "https://github.com/hujiangyi/pigpio-l298n/issues"
   },
-  "homepage": "https://github.com/hujiangyi/pigpio-/blob/master/README.md",
-  "_id": "pigpio--l298n@0.0.1",
+  "homepage": "https://github.com/hujiangyi/pigpio-l298n/blob/master/README.md",
+  "_id": "pigpio-l298n@0.0.1",
   "_npmUser": {
     "name": "hujiangyi003",
     "email": "laolang@189.cn"
